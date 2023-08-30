@@ -12,7 +12,7 @@
 
 ![](screenshot/20 en.png)
 
-我的AC代码（Java）：
+AC代码（Java）：
 
 ```java
 import java.util.Stack;
@@ -61,7 +61,7 @@ class Solution {
 
 相关视频： [【LeetCode 每日一题】71. 简化路径 | 手写图解版思路 + 代码讲解](https://www.bilibili.com/video/BV1qF411s7Jy)
 
-我的AC代码（Java）：
+AC代码（Java）：
 
 ```java
 import java.util.ArrayDeque;
