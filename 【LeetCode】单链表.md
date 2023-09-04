@@ -8,6 +8,10 @@
 
 ## 2. 两数相加
 
+![](screenshot/2 zh.png)
+
+![](screenshot/2 en.png)
+
 AC代码（Java）：
 
 ```java

@@ -8,6 +8,10 @@
 
 ## 933. 最近的请求次数
 
+![](screenshot/933 zh.png)
+
+![](screenshot/933 en.png)
+
 相关题解：[最近的请求次数](https://leetcode.cn/problems/number-of-recent-calls/solutions/1467662/zui-jin-de-qing-qiu-ci-shu-by-leetcode-s-ncm1/)
 
 AC代码（Java）：

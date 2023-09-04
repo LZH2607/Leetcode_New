@@ -8,6 +8,10 @@
 
 ## 5. 最长回文子串
 
+![](screenshot/5 zh.png)
+
+![](screenshot/5 en.png)
+
 相关视频：[史上最燃算法刷题！Leetcode 5. 最长回文子串](https://www.bilibili.com/video/BV1dN4y1g7p9/)
 
 AC代码（Java）：

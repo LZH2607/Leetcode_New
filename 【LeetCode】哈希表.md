@@ -8,6 +8,10 @@
 
 ## 1. 两数之和
 
+![](screenshot/1 zh.png)
+
+![](screenshot/1 en.png)
+
 相关视频：
 [二数之和题解分析](https://www.bilibili.com/video/BV1hV411e7MW)
 [二数之和代码解析](https://www.bilibili.com/video/BV1si4y1P7Eg)

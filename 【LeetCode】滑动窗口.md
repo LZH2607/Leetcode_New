@@ -12,6 +12,10 @@
 
 ## 3. 无重复字符的最长子串
 
+![](screenshot/3 zh.png)
+
+![](screenshot/3 en.png)
+
 相关视频：[一道算法题理解滑动窗思想！【趣刷Leetcode】 No.3 无重复字符的最长子串](https://www.bilibili.com/video/BV113411v7Ak/)
 
 AC代码（Java）：
