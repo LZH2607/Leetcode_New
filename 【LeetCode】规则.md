@@ -13,21 +13,13 @@ AC代码（Java）：
 ```java
 class Solution {
     public String longestCommonPrefix(String[] strs) {
-        int idx = 0;
-        while (true) {
-            boolean flag = false;
+        for (int i = 0; ; i++) {
             for (String str : strs) {
-                if (str.length() <= idx || str.charAt(idx) != strs[0].charAt(idx)) {
-                    flag = true;
-                    break;
+                if (str.length() <= i || str.charAt(i) != strs[0].charAt(i)) {
+                    return strs[0].substring(0, i);
                 }
             }
-            if (flag) {
-                break;
-            }
-            idx++;
         }
-        return strs[0].substring(0, idx);
     }
 }
 ```
